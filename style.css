@@ -1,3 +1,38 @@
-* {
-  background-color: green;
+.container {
+  width: 450px;
+  height: 697px;
+  left: 495px;
+  top: 102px;
+  outline: 1px solid black;
+}
+.image {
+  height: 220px;
+}
+.section {
+  width: 450px;
+  height: 197px;
+  margin-top: 0px;
+}
+.order {
+  width: 354px;
+  height: 99px;
+  border: 1px solid black;
+  margin: auto;
+}
+.button {
+  width: 450px;
+  height: 183px;
+}
+button {
+  display: block;
+  margin: auto;
+}
+#proceed {
+  margin-top: 33px;
+  margin-bottom: 15px;
+  width: 344px;
+  height: 50px;
+  color: white;
+  background-color: blue;
+  border-radius: 12px;
 }
